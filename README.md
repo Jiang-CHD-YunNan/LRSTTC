@@ -1,3 +1,3 @@
 # LRSTTC
 Given that automatic, efficient, and reliable landslide datasets have a strong need for landslide recognition, early warning, risk assessment, and post-disaster recovery, we have created an optical remote sensing image landslide dataset along the Sichuan-Tibet Transportation Corridor (LRSTTC dataset), which significantly reduces the time and energy of sample collection and data labeling for related researchers.
-Considering the protection of research results, we will update the dataset, code and reference link of the article after the article is accepted, so as to quote it more easier and avoid the plagiarism of the LRSTTC dataset that have taken a lot of effort to produce.
+Considering the protection of research results, we will update the dataset, code and reference link after the article is accepted, so as to quote it more easier and avoid the plagiarism of the LRSTTC dataset that have taken a lot of effort to produce.
